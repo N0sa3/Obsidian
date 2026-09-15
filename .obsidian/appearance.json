@@ -1,6 +1,6 @@
 {
   "translucency": false,
-  "cssTheme": "Minimal",
+  "cssTheme": "Retroma",
   "enabledCssSnippets": [
     "habit-tracker",
     "time-dashboard"

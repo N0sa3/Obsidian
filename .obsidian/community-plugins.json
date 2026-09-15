@@ -11,5 +11,6 @@
   "templater-obsidian",
   "obsidian-columns",
   "obsidian-minimal-settings",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "style-manager"
 ]

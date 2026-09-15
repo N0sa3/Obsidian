@@ -1,15 +1,7 @@
 - Birthday
   - icon:: 🎂
-  - date:: 2026-12-05
+  - date:: 2004-07-25
   - type:: Personal
+  
 
-- Japan Trip
-  - icon:: 🛫
-  - date:: 2026-09-10
-  - type:: Travel
-
-- Project Launch
-  - icon:: 🔖
-  - date:: 2026-08-01
-  - type:: Work
 

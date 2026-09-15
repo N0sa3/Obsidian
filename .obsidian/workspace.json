@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "LifeOS 开始使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "LifeOS 开始使用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,7 +170,8 @@
               "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,10 +188,11 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-para:LifeOS 创建": false
+      "periodic-para:LifeOS 创建": false,
+      "periodic-para:同步 memos": false
     }
   },
-  "active": "0f3fe8180e15a2d8",
+  "active": "fc6e0f58b69a4e0c",
   "lastOpenFiles": [
     "欢迎.md",
     "LifeOS 开始使用.md",

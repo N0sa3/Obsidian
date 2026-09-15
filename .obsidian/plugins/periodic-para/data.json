@@ -25,7 +25,7 @@
   "dailyRecordTag": "#daily-record",
   "dailyRecordWarning": true,
   "dailyRecordCreating": false,
-  "useDailyRecord": false,
+  "useDailyRecord": true,
   "usePeriodicNotes": true,
   "usePARANotes": true,
   "usePARAAdvanced": false,

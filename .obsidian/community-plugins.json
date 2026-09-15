@@ -1,4 +1,15 @@
 [
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "calendar",
+  "editing-toolbar",
+  "obsidian-excalidraw-plugin",
+  "homepage",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin",
+  "tasks-calendar-wrapper",
+  "templater-obsidian",
+  "obsidian-columns",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings"
 ]

@@ -11,14 +11,10 @@
             "id": "0f3fe8180e15a2d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LifeOS 开始使用.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LifeOS 开始使用"
+              "title": "新标签页"
             }
           }
         ]
@@ -187,17 +183,15 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-para:LifeOS 创建": false,
-      "periodic-para:同步 memos": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "fc6e0f58b69a4e0c",
   "lastOpenFiles": [
-    "欢迎.md",
-    "LifeOS 开始使用.md",
-    "2026-09-15.md",
     "0. 周期笔记/Templates/Daily.md",
+    "LifeOS 开始使用.md",
+    "欢迎.md",
+    "2026-09-15.md",
     "LifeOS 示例/第一个工作流.md",
     "2. 领域/Template.md",
     "1. 项目/Template.md",

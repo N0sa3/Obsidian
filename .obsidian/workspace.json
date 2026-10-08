@@ -22,8 +22,25 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "b106a137d9124a37",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00PeriodicNotes/Home/Home/Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,7 +254,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b106a137d9124a37",
   "lastOpenFiles": [
     "00PeriodicNotes/Home/Home/Home.md",
     "00PeriodicNotes/2026/2026.md",

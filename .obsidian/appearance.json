@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "habit-tracker",
     "time-dashboard"
-  ]
+  ],
+  "theme": "moonstone"
 }

@@ -132,7 +132,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00PeriodicNotes/Home/Home/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -237,7 +236,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "53e4437d4474d553",
   "lastOpenFiles": [
     "00PeriodicNotes/Home/Home/Home.md",
     "00PeriodicNotes/2026/2026.md",

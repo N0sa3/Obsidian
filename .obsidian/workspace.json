@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Home"
             }
@@ -236,8 +238,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "AI博物馆.md",
     "00PeriodicNotes/Home/Home/Home.md",
+    "AI博物馆.md",
     "00PeriodicNotes/2026/2026.md",
     "00PeriodicNotes/2026/202609/20260916.md",
     "02Areas/02Film Library/00Film.md",
